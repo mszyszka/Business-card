@@ -1,0 +1,19 @@
+.logo{
+    padding: 10px;
+    border: 1px solid #e6e6e6;
+    margin: 0 auto 10px auto;
+    max-width: 400px;
+
+}
+
+span{
+    font-size: 18px;
+    font-weight: 100;
+    /* letter-spacing: 1px; */
+}
+
+span:nth-child(2){
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 500;
+}

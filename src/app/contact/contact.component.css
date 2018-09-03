@@ -1,0 +1,32 @@
+span{
+    display: block;
+}
+
+h1{
+    margin-bottom: 25px;
+}
+
+.icon{
+    text-transform: none;
+    width: 50px;
+    height: 50px;
+}
+
+@media(min-width: 768px) {
+    h1 span{
+        display: inline;
+    }
+
+    h1{
+        margin-bottom: 35px;
+        font-size: 28px;
+    }
+
+}
+
+@media(min-width: 1024px) {
+    h1{
+        margin-bottom: 50px;
+    }
+
+}
